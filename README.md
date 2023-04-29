@@ -1,4 +1,4 @@
-# MAD-LAB-Practicals
+# MAD-LAB
 For sem 6, MAD Lab, mini project, our group created 'Nemo', a memo used for notes
 
 ### EXPERIMENT 01 : First Flutter App
